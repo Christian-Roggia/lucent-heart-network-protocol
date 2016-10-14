@@ -8,4 +8,4 @@ This code has been RCEed only for analysis and research purposes. It has no real
 This project is dead (last update in 2012) and will no longer be developed by its author. Please feel free to fork and continue its development.
 
 ## Authors
-**Christian Roggia** is the main author of **Lucent Heart Network Protocol**.
+**Christian Roggia** is the author of **Lucent Heart Network Protocol**.
